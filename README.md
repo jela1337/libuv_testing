@@ -4,7 +4,7 @@ OS used: Ubuntu 20.04.2 LTS
 
 Compiler used: gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
 
-  command used: gcc main.c /usr/local/lib/libuv.a -pthread -ldl -Wall -g
+  command used: gcc zad.c /usr/local/lib/libuv.a -pthread -ldl -Wall -g
 
 
 Description
